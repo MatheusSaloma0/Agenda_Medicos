@@ -1,0 +1,20 @@
+Rick Sanchez
+13700
+neurologia
+2a 08 09 10 11 12 13 14 15 16 17 
+
+Morty Smith
+88888
+radiologia
+4a 13 14 15
+6a 08 09 10 
+
+Jerry Smith
+54321
+coloproctologia
+
+Summer Smith
+39282
+dermatologia
+5a 09 10 11
+6a 14 15 

@@ -1,0 +1,31 @@
+Drauzio Varella
+32123
+imunologista
+2a 08 09 10
+3a 13 14 15 16 17
+5a 08 09 10
+6a 16 17
+
+Doctor Rey
+17894
+cirurgião plástico
+3a 14 15 16
+4a 08 09 10 11 13 14 15 16 17
+5a 08 09
+
+Éneas Carneiro
+56
+cardiologista
+
+Ivo Pitanguy
+2548
+cirurgião plástico
+3a 10 11
+6a 15 16 17
+
+Sérgio Baumel
+9876
+neurologista
+2a 13 14 15 16 17
+4a 13 14 15 16 17
+5a 08 09 10 11 13 14 15 16 17
