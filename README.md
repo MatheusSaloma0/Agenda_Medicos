@@ -1,6 +1,8 @@
 # Agenda_Medicos
 Trabalho de Programação II
 
+Professora Claudia Boeres
+
 A demanda pela automatização de processos em estabelecimentos comerciais cresce a cada dia. 
 Em uma clínica médica por exemplo, automatizar o processo de marcação de consultas para cada
 médico cadastrado na clínica pode facilitar, e muito, o cotidiano do pessoal administrativo 
